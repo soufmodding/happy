@@ -1,8 +1,8 @@
 {  "primary_ads": "",
-  "show_banner": true,
-  "show_interstitial": true,
-  "show_native": true,
-  "show_rewarded": true,
+  "show_banner": false,
+  "show_interstitial": false,
+  "show_native": false,
+  "show_rewarded": false,
   "admob_setting": {
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner_id": "ca-app-pub-3940256099942544/6300978111",
