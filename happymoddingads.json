@@ -1,0 +1,40 @@
+{  "primary_ads": "applovin",
+  "show_banner": true,
+  "show_interstitial": true,
+  "show_native": true,
+  "show_rewarded": true,
+  "admob_setting": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "reward_id": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "fan_setting": {
+    "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "inter_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native_id": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "reward_id": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "applovin_setting": {
+    "banner_id": "YOUR_AD_UNIT_ID",
+    "inter_id": "YOUR_AD_UNIT_ID",
+    "native_id": "YOUR_AD_UNIT_ID",
+    "reward_id": "YOUR_AD_UNIT_ID"
+  },
+  "yandex_setting": {
+    "banner_id": "demo-banner-yandex",
+    "inter_id": "demo-interstitial-yandex",
+    "native_id": "demo-native-app-yandex",
+    "reward_id": "demo-rewarded-yandex"
+  },
+  "unity_setting": {
+    "app_id": "1234567",
+    "banner_id": "Banner_Android",
+    "inter_id": "Interstitial_Android",
+    "reward_id": "Rewarded_Android"
+  },
+  "ironsource_setting": {
+    "app_id": "YOUR_APP_KEY"
+  }
+}
