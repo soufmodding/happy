@@ -1,8 +1,8 @@
 {  "primary_ads": "fan",
-  "show_banner": false,
+  "show_banner": true,
   "show_interstitial": false,
   "show_native": false,
-  "show_rewarded": false,
+  "show_rewarded": true,
   "admob_setting": {
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner_id": "ca-app-pub-3940256099942544/6300978111",
